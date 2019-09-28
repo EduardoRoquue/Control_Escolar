@@ -1,0 +1,6 @@
+    header {color: white;text-align: center;}
+    body 
+    {
+        background-color: tomato;
+    }
+    .menu li{list-style: none; display: inline;}
